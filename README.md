@@ -1,13 +1,13 @@
-👨🏽‍💻# Lps-System-SuperMarketing
+# 👨🏽‍💻Lps-System-SuperMarketing
 Sistema de Supermercado- LPS
 
 
-🏪 # Supermarket Management System (Spring Boot)
+ # 🏪Supermarket Management System (Spring Boot)
 
 Este projeto é um sistema completo de gestão de supermercado, desenvolvido com Spring Boot e JPA/Hibernate, seguindo a arquitetura em camadas (Controller, Service, Repository, Entity e DTO).
 O objetivo é oferecer uma base sólida para controle de produtos, fornecedores, clientes, estoque, compras, promoções, feedbacks e relatórios.
 
-⚙️ # Funcionalidades principais
+ # ⚙️Funcionalidades principais
 
 Cadastro e autenticação de usuários com controle de acesso via Role.
 
@@ -25,7 +25,7 @@ Módulo de promoções, feedbacks e relatórios de vendas.
 
 Estrutura pronta para integração com Spring Security e JWT.
 
-💻 # Tecnologias utilizadas
+ # 💻Tecnologias utilizadas
 
 Java 17+
 
@@ -43,7 +43,7 @@ Lombok
 
 MapStruct (para mapeamento DTO ↔ Entity)
 
-🧱 # Estrutura de Pacotes
+ # 🧱Estrutura de Pacotes
 
 com.example.supermarket
 ├── config/          → Configurações (segurança, CORS, JWT)
